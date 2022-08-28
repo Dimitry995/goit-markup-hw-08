@@ -1355,7 +1355,7 @@ img {
   }
 }
 
-@media screen and (min-width: 480px) and (max-width: 768px) {
+@media screen and (min-width: 481px) and (max-width: 768px) {
   .container {
     width: 768px;
   }
