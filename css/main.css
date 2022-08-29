@@ -1314,8 +1314,7 @@ img {
     width: 450px;
   }
   button.send {
-    margin: 0 auto;
-    display: block;
+    margin-left: 125px;
     margin-top: 20px;
   }
   /*--Portfolio--*/
