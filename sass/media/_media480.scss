@@ -13,14 +13,42 @@
 		display: block;
 		margin-left: auto;
 	}
-	.menu__window {
-
-	}
 	.hero {
 		background-image: linear-gradient(to right,rgba(47, 48, 58, 0.4),rgba(47, 48, 58, 0.4)), url('../images/18-480.jpg');
 	}
 	.hero__title {
 		width:360px;
+	}
+	.modal {
+		height:609px;
+		width:450px;
+	}
+	#area1, #area2, #area3 {
+		width: 370px;
+	}
+	.modal__icon1{
+		position: absolute;
+		top:130px;
+		left:60px;
+	}
+	.modal__icon2{
+		position: absolute;
+		top:200px;
+		left:60px;
+	}
+	.modal__icon3{
+		position: absolute;
+		top:270px;
+		left:60px;
+	}
+	#coment {
+		width: 370px;
+	}
+	.checkbox__paragraf {
+		line-height: 1.2;
+	}
+	.checkbox__button {
+		height:25px;
 	}
 	.info {
 		padding-top:60px;
