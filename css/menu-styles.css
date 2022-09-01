@@ -48,7 +48,7 @@ ul,li {
 	line-height: 0.85;
 	text-align: center;
 	letter-spacing: 0.02em;	
-	color: #212121;
+	color: var(--main-color);
 	text-decoration: none;
 }
 .menu__link:hover {
@@ -60,7 +60,16 @@ ul,li {
 .right {
 	margin-bottom:32px;
 }
-.top__right {
+.top__right--phone {
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 34px;
+line-height: 0.857;
+letter-spacing: 0.02em;
+color:var(--four-color);	
+}
+.top__right--email {
 font-family: 'Roboto';
 font-style: normal;
 font-weight: 500;
@@ -68,7 +77,7 @@ font-size:24px;
 line-height: 0.857;
 letter-spacing: 0.02em;
 text-decoration: none;
-color: #757575;
+color:var(--secondary-color);
 }
 .top__right:hover {
 	color:var(--four-color);
