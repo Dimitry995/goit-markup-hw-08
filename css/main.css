@@ -1658,7 +1658,7 @@ width: 280px;
     height: 374px;
   }
   .social__list {
-    display: flex block;
+    display: flex;
     justify-content: center;
   }
   .clients__list {
