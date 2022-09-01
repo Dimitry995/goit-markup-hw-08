@@ -1376,6 +1376,41 @@ outline: transparent;
 		display: block;
 		margin-top:20px;
 	}
+	/*--Portfolio--*/
+.filters {
+	width: 450px;
+}
+.filters__list {
+	flex-wrap: wrap;
+}
+.filters__item {
+	margin-bottom:15px;
+}
+.filters__link {
+	line-height: 1.8;
+}
+.content__list {
+	display: list-item;
+}
+.content__item {
+	width: 450px;
+	margin-bottom:30px;
+}
+.content__link {
+	width:450px;
+}
+.content__img {
+	width:450px;
+}
+.content img {
+	width: 450px;
+}
+.overlay {
+	width: 450px;
+}
+.overlay p {
+	width: 450px;
+}
 }
 
 @media screen and (min-width: 481px) and (max-width: 768px) {
