@@ -1744,15 +1744,16 @@ width: 280px;
     display: flex;
     flex-direction: column;
     width: 450px;
-    margin-left: 166px;
+    margin:0 auto;
   }
   #line {
     width: 450px;
   }
   button.send {
     width: 200px;
-    margin-top: 30px;
-    margin-left: 125px;
+    margin-top: 20px;
+    margin-left:auto;
+    margin-right:auto;
   }
 }
 /*End-Portfolio-768px--*/
@@ -2905,7 +2906,6 @@ outline: transparent;
 	#line {
 		height:50px;
 		width:320px;
-		float:left;
 		border: 1px solid rgba(255, 255, 255, 0.3);
 		filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.15));
 		border-radius: 4px;
