@@ -106,9 +106,12 @@
 		margin-right:30px;
 		width: 210px;
 	}
+	#footer {
+	padding-bottom:60px;	
+	}
 	.footer__container {
 		flex-direction: column;
-		height:603px;
+		padding:60px 15px;
 	}
 	.left {
 		margin-bottom: 60px;
