@@ -1011,9 +1011,6 @@ img {
 	letter-spacing: 0.06em;
 	text-align: left;
 	color:var(--main-color);
-	margin-left:15px;
-	margin-top:20px;
-	margin-bottom:4px;
 	
 	}
 	.content__title--h4 {
@@ -1024,8 +1021,6 @@ img {
 	letter-spacing: 0.03em;
 	text-align: left;
 	color: var(--secondary-color);
-	margin-left:15px;
-	margin-bottom:20px;
 	
 	}
 	.overlay {
@@ -2723,11 +2718,7 @@ width: 280px;
 	font-weight: 700;
 	letter-spacing: 0.06em;
 	text-align: left;
-	color:var(--main-color);
-	margin-left:15px;
-	margin-top:20px;
-	margin-bottom:4px;
-	
+	color:var(--main-color);	
 	}
 	.content__title--h4 {
 	font-family: 'Roboto', sans-serif;
@@ -2736,10 +2727,7 @@ width: 280px;
 	font-weight: 400;
 	letter-spacing: 0.03em;
 	text-align: left;
-	color: var(--secondary-color);
-	margin-left:15px;
-	margin-bottom:20px;
-	
+	color: var(--secondary-color);	
 	}
 	.overlay {
 	position:absolute;
