@@ -943,10 +943,8 @@
 		height: 294px;
 	}
 	.content__block {
-	padding-top:20px;
-		padding-bottom:20px;
-		padding-left:24px;
-		border:1px solid var(--seven-color);
+	padding:20px 24px;
+	border:1px solid var(--seven-color);
 	}
 	.content__title--h3 {
 	font-family: 'Roboto', sans-serif;
@@ -956,9 +954,6 @@
 	letter-spacing: 0.06em;
 	text-align: left;
 	color:var(--main-color);
-	margin-left:15px;
-	margin-top:20px;
-	margin-bottom:4px;
 	
 	}
 	.content__title--h4 {
@@ -969,8 +964,6 @@
 	letter-spacing: 0.03em;
 	text-align: left;
 	color: var(--secondary-color);
-	margin-left:15px;
-	margin-bottom:20px;
 	
 	}
 	.overlay {
