@@ -1011,14 +1011,13 @@
 	
 	/*--FOOTER--START--*/
 	#footer {
-		padding:60px 0;
 		background-color:var(--six-color);
 		display: flex;
 	}
 	.footer__container {
 		width:1200px;
 		margin:0 auto;
-		padding:0 15px;
+		padding:60px 15px;
 		display:flex;
 		align-items: baseline;
 	}
