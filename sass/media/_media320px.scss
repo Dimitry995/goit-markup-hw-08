@@ -77,19 +77,18 @@
 }
 .person__item {
 	display: list-item;
-	height:522px;
 	margin-left:0px;
 	margin-bottom:30px;
 	
 }
 .person__img {
-	height:360px;
+	height:260px;
 	width:280px;
 }
 .social__list {
 	display: flex;
 	justify-content: center;
-	margin-bottom:24px;
+	padding-bottom:24px;
 }
 .clients__list {
 	display: grid;
