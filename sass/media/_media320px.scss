@@ -128,7 +128,9 @@
 margin-bottom:20px;
 }
 #line {
-	width:280px;
+    width: 280px;
+    margin: 0 auto;
+    display: flex;
 }
 button.send {
 	margin: 0 auto;
