@@ -1546,6 +1546,8 @@ width: 280px;
 	#line {
 		width:450px;
 		margin-bottom:20px;
+		display:flex;
+		margin: 0 auto;
 	}
 	button.send {
 		margin: 0 auto;
@@ -2803,13 +2805,10 @@ outline: transparent;
 		background-color:var(--six-color);
 		display: flex;
 	}
-	.footer__container {
-		width:1200px;
-		margin:0 auto;
-		padding:0 15px;
-		display:flex;
-		align-items: baseline;
-	}
+    width: 1200px;
+    margin: 0 auto;
+    padding: 60px 15px;
+    align-items: baseline;
 	.left {
 		width:300px;
 		float:left;
