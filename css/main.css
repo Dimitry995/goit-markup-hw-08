@@ -1592,6 +1592,9 @@ width: 280px;
   .container {
     width: 768px;
   }
+.top__item--right {
+	margin-bottom:9px;
+	}
   .modal {
     height: 609px;
     width: 450px;
