@@ -1232,6 +1232,9 @@ outline: transparent;
  .container {
 	width: 320px;
 }
+section {
+	padding: 60px 0px;
+}
 .navigation {
 	display: none;
 }
@@ -1408,6 +1411,9 @@ width: 280px;
 	.container {
 		width:480px;
 	}
+	section {
+	padding: 60px 0px;
+}
 	.navigation {
 		display: none;
 	}
@@ -1587,6 +1593,9 @@ width: 280px;
   .container {
     width: 768px;
   }
+	section {
+	padding: 60px 0px;
+}
 	.hero {
 	padding-top: 118px;
 	padding-bottom: 118px;
