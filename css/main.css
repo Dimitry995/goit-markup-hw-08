@@ -1048,6 +1048,7 @@ img {
 	letter-spacing: 0.06em;
 	text-align: left;
 	color:var(--main-color);
+	line-height:2;
 	
 	}
 	.content__title--h4 {
@@ -1058,6 +1059,8 @@ img {
 	letter-spacing: 0.03em;
 	text-align: left;
 	color: var(--secondary-color);
+	margin-top: 4px;
+	line-height:2;
 	
 	}
 	.overlay {
