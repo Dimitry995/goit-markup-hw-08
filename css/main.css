@@ -103,7 +103,7 @@ img {
 	
 	.navigation__list {
 		margin-left:93px;
-		display:inline-block;
+		display:flex;
 	}
 	.navigation__item:first-child {
 		margin-left:0px;
@@ -124,6 +124,7 @@ img {
 		}
 	.top__list {
 		margin-left:auto;
+		display:flex;
 	}
 	.top__item--right {
 		display:inline;
@@ -1867,7 +1868,7 @@ width: 280px;
 	
 	.navigation__list {
 		margin-left:93px;
-		display:inline-block;
+		display:flex;
 	}
 	.navigation__item:firts-child {
 		margin-left:0;
@@ -1889,6 +1890,7 @@ width: 280px;
 		}
 	.top__list {
 		margin-left:auto;
+		display:flex;
 	}
 	.top__item--right {
 		display:inline;
