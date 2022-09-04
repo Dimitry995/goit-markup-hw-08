@@ -1730,7 +1730,7 @@ width: 280px;
   /*--Media-Studio--index--768px--end--*/
   /*--start-Portfolio 768px--*/
   .navigation__list {
-    display: inline-block;
+    display:flex;
   }
   .navigation__item:first-child {
     margin-left: 0px;
