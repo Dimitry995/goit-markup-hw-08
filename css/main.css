@@ -1764,6 +1764,9 @@ width: 280px;
     width: 354px;
     height: 294px;
   }
+  .content__block {
+	height:150px;	
+	}
   .content__title--h3 {
     line-height: 2;
   }
