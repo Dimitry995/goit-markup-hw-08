@@ -3069,6 +3069,7 @@ outline: transparent;
 	}
 	.top {
 		flex-direction: column;
+		margin-top:100px;
 	}
 	.top__right--phone {
 		font-family: 'Roboto';
@@ -3097,6 +3098,7 @@ outline: transparent;
 	}
 	.social__list--menu {
 		display:inline;
+		margin-top:50px;
 	}
 	.social__item--menu {
 		display:inline-block;
