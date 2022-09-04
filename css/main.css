@@ -1830,9 +1830,6 @@ width: 280px;
 	.top {
 		display: flex;
 	}
-	.menu li {
-		display:inline-flex;
-	}
 	.menu a {
 	font-weight: 500;
 	letter-spacing: 0.02em;
@@ -1870,6 +1867,7 @@ width: 280px;
 	
 	.navigation__list {
 		margin-left:93px;
+		display:inline-block;
 	}
 	.navigation__item:firts-child {
 		margin-left:0;
@@ -3021,7 +3019,9 @@ outline: transparent;
     background-color: #fff;
 	}
 	.menu__list {
-		
+		display:list-item;
+		display:flex;
+		flex-direction:column;
 	}
 	.menu__item {
 		margin-bottom:35px;
