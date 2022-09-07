@@ -3145,6 +3145,22 @@ outline: transparent;
 		border-right:1px solid grey;
 		margin-right:10px;
 	}
+.curent {
+color: var(--four-color);
+display: flex;
+flex-direction: column;
+width: 150px;	
+}
+.curent::after {
+		content: "";
+		height: 4px;
+		width:100%;
+		margin-top: 28px;
+		background-image: url(../images/hover.png);
+		background-size: cover;
+		border-radius: 2px;
+	display:block;
+	}
 	/*--FOOTER--END--*/
 	/*--Media 1200px--*/
 /*# sourceMappingURL=main.css.map */
