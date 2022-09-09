@@ -1355,9 +1355,11 @@ section {
 .person__item {
 	display: list-item;
 	margin-left:0px;
-	margin-bottom:30px;
-	
+	margin-bottom:30px;	
 }
+	.person__item:last-child {
+	margin-bottom:0px;	
+	}
 .person__img {
 	height:260px;
 	width:280px;
@@ -1378,6 +1380,9 @@ section {
 	margin-right:30px;
 	width: 210px;
 }
+	.clietns__item:last-child {
+	margin-bottom:0px;	
+	}
 .footer__container {
 	flex-direction: column;
 	height:603px;
