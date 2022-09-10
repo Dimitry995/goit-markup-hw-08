@@ -1339,13 +1339,14 @@ section {
 .info__item {
 	margin-left:0px;
 	width:280px;
+	margin-bottom:50px;
 }
 .info__title--h3 {
 	text-align: center;
 }
-.info__paragraf {
-	margin-bottom:50px;
-}
+	.info__item:last-child {
+	margin-bottom:0px;	
+	}
 .img {
 	display: none;
 }
@@ -1526,12 +1527,13 @@ width: 280px;
 	.info__item {
 		margin-left:0px;
 		width:450px;
+		margin-bottom:50px;
 	}
 	.info__title--h3 {
 		text-align: center;
 	}
-	.info__paragraf {
-		margin-bottom:50px;
+	.info__item:last-child {
+	margin-bottom:0px;	
 	}
 	.img {
 		display: none;
@@ -1709,7 +1711,6 @@ width: 280px;
     display: grid;
     grid-template-columns: 354px 354px;
     grid-gap: 30px;
-    width: 768px;
   }
   .info__icon {
     width: 354px;
