@@ -1200,9 +1200,6 @@ outline: transparent;
 	.footer__social--icon {
 		fill:var(--third-color);
 	}
-	.right__bottom {
-		margin-left:auto;
-		}
 	.right__bottom--h {
 		font-weight: bold;
 		font-size: 14px;
