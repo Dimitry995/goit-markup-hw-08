@@ -1547,6 +1547,7 @@ width: 280px;
 		display: flex;
 		justify-content: center;
 		margin-bottom:0px;
+		padding-bottom:30px;
 	}
 	.clients__list {
 		display: grid;
