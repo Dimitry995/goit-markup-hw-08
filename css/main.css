@@ -1546,6 +1546,7 @@ width: 280px;
 	.social__list {
 		display: flex;
 		justify-content: center;
+		margin-bottom:0px;
 	}
 	.clients__list {
 		display: grid;
