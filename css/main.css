@@ -1546,7 +1546,6 @@ width: 280px;
 	.social__list {
 		display: flex;
 		justify-content: center;
-		padding-bottom:24px;
 	}
 	.clients__list {
 		display: grid;
