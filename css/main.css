@@ -1559,6 +1559,7 @@ width: 280px;
 	}
 	.clients__item {
 		width: 210px;
+		margin-right: 0px;
 	}
 	.clients__item:nth-child(5) {
 	margin-bottom:0px;	
