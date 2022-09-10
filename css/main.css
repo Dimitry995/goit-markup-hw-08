@@ -851,7 +851,7 @@ img {
 	}
 	
 	.social__list{
-		margin-bottom:30px;
+		padding-bottom:30px;
 	}
 	.social__item:first-child {
 		margin-left:26px;
