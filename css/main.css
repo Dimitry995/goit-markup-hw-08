@@ -1525,9 +1525,6 @@ width: 280px;
 	.info__title--h3 {
 		text-align: center;
 	}
-	.info__item:last-child {
-	margin-bottom:0px;	
-	}
 	.img {
 		display: none;
 	}
