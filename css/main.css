@@ -1543,7 +1543,6 @@ width: 280px;
 	}
 	.person__item {
 		display: list-item;
-		height:622px;
 		margin-left:0px;
 		margin-bottom:30px;	
 	}
@@ -1557,7 +1556,7 @@ width: 280px;
 	.social__list {
 		display: flex;
 		justify-content: center;
-		margin-bottom:24px;
+		padding-bottom:24px;
 	}
 	.clients__list {
 		display: grid;
@@ -1724,7 +1723,6 @@ width: 280px;
     display: none;
   }
   .person__list {
-    width: 768px;
     display: grid;
     grid-template-columns: 354px 354px;
     grid-gap: 30px;
