@@ -94,16 +94,14 @@
 	.social__list {
 		display: flex;
 		justify-content: center;
-		margin-bottom:24px;
+		padding-bottom:24px;
 	}
 	.clients__list {
 		display: grid;
 		grid-template-columns: 210px 210px;
-		grid-column-gap: 30px;
+		grid-gap: 30px;
 	}
 	.clients__item {
-		margin-bottom:30px;
-		margin-right:30px;
 		width: 210px;
 	}
 	#footer {
