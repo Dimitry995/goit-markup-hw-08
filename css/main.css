@@ -3032,7 +3032,6 @@ outline: transparent;
     flex-direction: column;
     -webkit-box-pack: justify;
     -ms-flex-pack: justify;
-    justify-content: space-between;
     background-color: #fff;
 	}
 	.menu__list {
@@ -3081,7 +3080,7 @@ outline: transparent;
 	}
 	.top {
 		flex-direction: column;
-		margin-top:100px;
+		margin-top:auto;
 	}
 	.top__right--phone {
 		font-family: 'Roboto';
@@ -3100,7 +3099,7 @@ outline: transparent;
 	line-height: 0.857;
 	letter-spacing: 0.02em;
 	text-decoration: none;
-	color: #757575;
+	color: var(--secondary-color);
 	}
 	.top__right:hover {
 		color:var(--four-color);
@@ -3126,13 +3125,11 @@ outline: transparent;
 		margin-right:10px;
 	}
 	.social__link--menu {
-		font-family: 'Roboto';
-	font-style: normal;
 	font-weight: 500;
 	font-size: 18px;
 	line-height: 1.2;
 	letter-spacing: 0.02em;
-	color: #2196F3;
+	color: var(--four-color);
 	text-decoration: none;
 	}
 	.social__link--menu::after {
