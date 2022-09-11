@@ -1598,6 +1598,8 @@ width: 280px;
 }
 .filters__list {
 	flex-wrap: wrap;
+	margin-top:60px;
+	justify-content: start;
 }
 .filters__item {
 	margin-bottom:15px;
@@ -1752,6 +1754,9 @@ width: 280px;
   .top__item--right {
     margin-bottom: 6px;
   }
+	.filters__list {
+		margin-top:60px;
+	}
   .content__list {
     display: grid;
     grid-template-columns: 354px 354px;
