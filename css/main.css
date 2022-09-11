@@ -832,7 +832,6 @@ img {
 	}
 	
 	.person__list {
-		width:1200px;
 		margin-top:50px;
 	}
 	.person__item:first-child {
@@ -2575,7 +2574,6 @@ flex-wrap:wrap;
 	}
 	
 	.person__list {
-		width:1200px;
 		margin-top:50px;
 	}
 	.person__item:first-child {
