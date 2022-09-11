@@ -1535,6 +1535,7 @@ width: 280px;
 	}
 	.person__list {
 		width: 450px;
+		display: list-item;
 	}
 	.person__item {
 		display: list-item;
