@@ -833,6 +833,7 @@ img {
 	
 	.person__list {
 		margin-top:50px;
+		display:flex;
 	}
 	.person__item:first-child {
 	margin-left:0px;	
@@ -2580,6 +2581,7 @@ flex-wrap:wrap;
 	
 	.person__list {
 		margin-top:50px;
+		flex-direction:row;
 	}
 	.person__item:first-child {
 	margin-left:0px;	
