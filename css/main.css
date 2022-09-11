@@ -1319,6 +1319,7 @@ section {
 }
 .info {
 	padding-top:60px;
+	padding-bottom:60px;
 }
 .info__list {
 	display: list-item;
@@ -1335,6 +1336,9 @@ section {
 .info__title--h3 {
 	text-align: center;
 }
+.info__item:last-child {
+	margin-bottom:0px;
+	}
 .img {
 	display: none;
 }
@@ -1506,6 +1510,7 @@ width: 280px;
 	}
 	.info {
 		padding-top:60px;
+		padding-bottom:60px;
 	}
 	.info__list {
 		display: list-item;
@@ -1521,6 +1526,9 @@ width: 280px;
 	}
 	.info__title--h3 {
 		text-align: center;
+	}
+	.info__item:last-child {
+	margin-bottom:0px;	
 	}
 	.img {
 		display: none;
