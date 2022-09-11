@@ -1130,10 +1130,6 @@ outline: transparent;
 		display:flex;
 		align-items: baseline;
 	}
-	.left {
-		width:300px;
-		float:left;
-	}
 	.logo-color-white {
 		color:var(--third-color);
 	}
@@ -1188,6 +1184,9 @@ outline: transparent;
 		color: var(--third-color);
 			margin-bottom:20px;
 		}
+.center {
+	margin-left:auto;	
+	}
 	.center ul {
 		padding-left: 0;
 	}
@@ -1523,7 +1522,7 @@ width: 280px;
 	.info__item {
 		margin-left:0px;
 		width:450px;
-		margin-bottom:50px;
+		margin-bottom:30px;
 	}
 	.info__title--h3 {
 		text-align: center;
@@ -2863,13 +2862,12 @@ outline: transparent;
 		background-color:var(--six-color);
 		display: flex;
 	}
-    width: 1200px;
-    margin: 0 auto;
-    padding: 60px 15px;
-    align-items: baseline;
-	.left {
-		width:300px;
-		float:left;
+    .footer__container {
+		width:1200px;
+		margin:0 auto;
+		padding:0 15px;
+		display:flex;
+		align-items: baseline;
 	}
 	.logo-color-white {
 		color:var(--third-color);
@@ -2925,6 +2923,9 @@ outline: transparent;
 		color: var(--third-color);
 			margin-bottom:20px;
 		}
+	.center {
+	margin-left:auto;	
+	}
 	.center ul {
 		padding-left: 0;
 	}
