@@ -966,6 +966,7 @@ img {
 		display:flex;
 		justify-content: center;
 		margin:0 auto;
+		margin-top:100px;
 	}
 	.filters__item {
 		display:inline-block;
@@ -1011,7 +1012,6 @@ img {
 		display: grid;
 		grid-template-columns: 370px 370px 370px;
 		grid-gap: 30px;
-		width:1200px;
 	}
 	.content__item {
 		display:flex;
@@ -2704,6 +2704,7 @@ flex-wrap:wrap;
 		display:flex;
 		justify-content: center;
 		margin:0 auto;
+		margin-top: 100px;
 	}
 	.filters__item {
 		display:inline-block;
