@@ -1330,14 +1330,11 @@ section {
 .info__item {
 	margin-left:0px;
 	width:280px;
-	margin-bottom:50px;
+	margin-bottom:30px;
 }
 .info__title--h3 {
 	text-align: center;
 }
-	.info__item:last-child {
-	margin-bottom:0px;	
-	}
 .img {
 	display: none;
 }
@@ -1377,7 +1374,6 @@ section {
 	}
 .footer__container {
 	flex-direction: column;
-	height:603px;
 }
 .left {
 	margin-bottom: 60px;
