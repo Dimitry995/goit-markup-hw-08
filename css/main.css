@@ -2598,10 +2598,6 @@ flex-wrap:wrap;
 		width:270px;
 		height:260px;
 	}
-	
-	.social__list{
-		margin-bottom:30px;
-	}
 	.social__item:first-child {
 		margin-left:26px;
 	}
