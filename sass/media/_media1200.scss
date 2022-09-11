@@ -746,7 +746,8 @@
 	}
 	
 	.person__list {
-		width:1200px;
+		display:flex;
+		flex-direction:row;
 		margin-top:50px;
 	}
 	.person__item:first-child {
