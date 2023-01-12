@@ -32,6 +32,9 @@ p {
 h1,h2,h3,h4,h5,h6 {
 	margin:0;
 }
+.js-menu-container {
+	visibility:hidden;
+}
 .container {
 	width:1200px;
 	margin:0 auto;
